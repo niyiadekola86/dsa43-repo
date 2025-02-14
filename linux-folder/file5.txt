@@ -1,0 +1,6 @@
+Author: Developer B
+Date: 10th Feb 2025
+Purpose: Learning Git on Linux
+---------------------------------
+==============================
+CCreated on linux
